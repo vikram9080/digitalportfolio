@@ -1,0 +1,52 @@
+{
+    margin:0;
+    padd
+}
+img{ 
+    width: 75%;
+    mrgin top: 8%;
+}
+img{ 
+    width: 35rem;
+}
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor:  pointer;
+    font-family: sans_serif;
+}
+body{
+    with:90%;
+    min-height:90vh;
+    
+}
+header:{
+    display:flex;
+    justify-content: spac-betwen;
+    padding :20px 20px;
+    color: white;
+}
+nav li{
+    display:inline-block;
+    margin: 10px 20px;
+}
+.main{
+    width:10%;
+    display: flex;
+}
+.content{
+    width: 50%;
+    margin-top:8%;
+    margin-left: 5%;
+}
+span{
+    color: red;
+}
+button{
+    padding: 20px 30px;
+    background: transparent;
+    color: red;
+    font-size: 20px;
+    border-radius: 9px 30px;
+}
